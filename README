@@ -20,7 +20,7 @@ v 1.1.0 - ARC Support, CocoaPod specification
 
 2. Adding iCalObjCSDK to your project
 
-To use iCalForObj4 on your XCode project, you have to add the following files in [[https://github.com/cybergarage/iCal4ObjC/tree/master/iCalObjCSDK][iCalObjCSDK]] subfolder of the SDK package. 
+To use iCalForObj4 on your Xcode project, you have to add the following files in [[https://github.com/cybergarage/iCal4ObjC/tree/master/iCalObjCSDK][iCalObjCSDK]] subfolder of the SDK package. 
 
 <verbatim>
 CGICalendar.h
